@@ -15,8 +15,5 @@ Python 3.7.4
 Pysam 0.15.2
 
 # License
-Copyright (c) 2020 RIKEN
-All Rights Reserved
 See file LICENSE for details.
 
-#
